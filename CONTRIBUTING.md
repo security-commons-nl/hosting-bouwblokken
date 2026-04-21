@@ -2,16 +2,33 @@
 
 Referentiearchitecturen en IaC voor veilig hosten van AI/security-applicaties.
 
-Raadpleeg de organisatiebrede richtlijnen van security-commons-nl:
+## 1. Iets aanbieden of melden — geen Git-ervaring nodig
 
-- [CONTRIBUTING.md (org-wide)](https://github.com/security-commons-nl/.github/blob/main/CONTRIBUTING.md)
-- [DOCUMENTATION-STANDARD.md](https://github.com/security-commons-nl/.github/blob/main/DOCUMENTATION-STANDARD.md)
-- [PRINCIPLES.md](https://github.com/security-commons-nl/.github/blob/main/PRINCIPLES.md)
+→ [**Bijdrage aanbieden**](https://github.com/security-commons-nl/hosting-bouwblokken/issues/new?template=bijdrage-aanbieden.md)
+  Een hostingscenario, ervaring of referentiearchitectuur om te delen.
 
-## Manieren om bij te dragen
+→ [**Fout of verbetering**](https://github.com/security-commons-nl/hosting-bouwblokken/issues/new?template=fout-of-verbetering.md)
+  Iets dat niet meer klopt of beter kan.
 
-- **Referentiearchitectuur**: schetsen voor EU-soeverein hosten (Scaleway, Hetzner, lokale Kubernetes, Ollama) van tools uit de commons.
-- **Infrastructure-as-Code**: Terraform, Ansible of docker-compose-recepten.
-- **Documentatie**: uitleg van trade-offs bij keuzes (kosten, soevereiniteit, complexiteit).
+Vul alleen de vragen in die voor jou relevant zijn — we helpen je met de rest.
+
+**Geen GitHub-account?** [Maak er gratis een](https://github.com/signup) (2 minuten), of vraag iemand in je netwerk om namens jou te posten.
+
+## 2. Meediscussiëren
+
+→ [**Discussions**](https://github.com/orgs/security-commons-nl/discussions)
+
+Voor vragen, ervaringen en ideeën zonder directe actie.
+
+## 3. Voor ontwikkelaars — architectuur of IaC aanleveren
+
+Welkom:
+- Referentiearchitectuur voor EU-soeverein hosten (Scaleway, Hetzner, Kubernetes, Ollama)
+- Infrastructure-as-Code (Terraform, Ansible, docker-compose)
+- Trade-off-analyses (kosten, soevereiniteit, complexiteit)
 
 Zie [ROADMAP.md](ROADMAP.md) voor de huidige richting.
+
+---
+
+**Organisatiebrede richtlijnen**: [security-commons-nl/.github](https://github.com/security-commons-nl/.github/blob/main/CONTRIBUTING.md)
