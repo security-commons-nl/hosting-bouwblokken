@@ -34,3 +34,7 @@ Momenteel werken we aan het integreren en structureren van de volgende component
 ## Verder lezen
 
 Bekijk de [ROADMAP.md](ROADMAP.md) voor de geplande ontwikkeling van deze repository.
+
+## Bijdragen
+
+Zie [CONTRIBUTING.md](CONTRIBUTING.md) voor hoe je iets kan delen, melden of verbeteren — met of zonder Git-ervaring.
